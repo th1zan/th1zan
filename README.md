@@ -8,7 +8,7 @@
 
 ![Bridge](https://raw.githubusercontent.com/th1zan/th1zan/main/imgs/bridge.jpg)
 
-Building bridges between civil engineering and code! Formerly a civil engineer (EPFL), I’m now laying digital bricks as a future **Data Engineer**. On this site, every line of code is a foundation, and every project a structure in progress. 🚧💻
+Building bridges between real life and code! Formerly a civil engineer (EPFL), I’m now laying digital bricks as a future **Data Engineer**. On this site, every line of code is a foundation, and every project a structure in progress. 🚧💻
 
 ---
 
