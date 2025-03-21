@@ -20,7 +20,10 @@ Building bridges between civil engineering and code! Formerly a civil engineer (
 - 🏢 Ex-civil engineer, now transitioning to becoming a Data Engineer, with a passion for AI, data and systems.  
 - 🛠️ 10 years of experience managing complex projects (infrastructure, urban planning).  
 - 🚚 **Goal**: Laying the groundwork for a career in data through an internship or job, advancing my skills in data-driven projects.  
-
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## 🧱 Skill Bricks  
